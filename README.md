@@ -6,7 +6,6 @@ Brick Breaker (platformer) is a Breakout clone in which the player must smash a 
 
 
 ## Game Requirements:
-
 * A ball that moves 
 * The ball should bounce off the walls 
 * A paddle for the player to control
@@ -21,7 +20,10 @@ Brick Breaker (platformer) is a Breakout clone in which the player must smash a 
 * Extra Life
 * Brick hits reduce
 
-## Include a clear concise ReadME:
+# Submission: 
+Your project must be submitted as a Github repository. What the repository needs to include is listed below.
+
+#### Include a clear concise ReadME:
 * How to install
 * Technologies used
 * Languages used to create 
@@ -30,11 +32,9 @@ Brick Breaker (platformer) is a Breakout clone in which the player must smash a 
 * File structure Breakdown
 * Picture Preview of Games
 
-## Language List
+#### Language List
 * Java
 * C#
 * Python
 * JavaScript
 * Go
-
-
